@@ -1,0 +1,37 @@
+{
+  "name": "Happy Green",
+  "type": "light",
+  "colors": {
+    "titleBar.activeBackground": "#43a047",
+    "titleBar.activeForeground": "#ffffff",
+    "titleBar.inactiveBackground": "#c8e6c9",
+    "titleBar.inactiveForeground": "#1b5e20",
+    "activityBar.background": "#388e3c",
+    "activityBar.foreground": "#ffffff",
+    "sideBar.background": "#e8f5e9",
+    "editor.background": "#f6fcf7",
+    "editor.foreground": "#1b5e20",
+    "statusBar.background": "#43a047",
+    "statusBar.foreground": "#ffffff"
+  },
+  "tokenColors": [
+    {
+      "scope": ["comment"],
+      "settings": {
+        "foreground": "#81c784"
+      }
+    },
+    {
+      "scope": ["string"],
+      "settings": {
+        "foreground": "#388e3c"
+      }
+    },
+    {
+      "scope": ["keyword"],
+      "settings": {
+        "foreground": "#1b5e20"
+      }
+    }
+  ]
+}
