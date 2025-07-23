@@ -1,6 +1,6 @@
-# Happy Themes for VSCode
+# Happy Themes for Visual Studio Code ( VSCode)
 
-Looking for bright happy themes for your VSCode? You found them!
+Looking for bright happy themes for your VSCode IDE? You found them!
 
 ## Installation Instructions
 
@@ -22,6 +22,8 @@ Pick the themes you want and install just those.
 
 #### Happy Yellow
 
+![Happy Yellow Sample](samples/happy-yellow-sample.jpg)
+
 1. Execute these terminal commands
 ```bash
 > cd happy-yellow
@@ -34,6 +36,8 @@ In VS Code, open the Command Palette (Cmd+Shift+P), type Color Theme, and select
 
 #### Happy Blue
 
+![Happy Blue Sample](samples/happy-blue-sample.jpg)
+
 1. Execute these terminal commands
 ```bash
 > cd happy-blue
@@ -45,6 +49,8 @@ In VS Code, open the Command Palette (Cmd+Shift+P), type Color Theme, and select
 ```
 
 #### Happy Red
+
+![Happy Red Sample](samples/happy-red-sample.jpg)
 
 1. Execute these terminal commands
 ```bash

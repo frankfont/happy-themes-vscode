@@ -1,7 +1,7 @@
-# Happy Yellow Theme
+# Happy Red Theme
 
 ## Overview
-The "Happy Yellow" theme is a bright and cheerful color theme designed to enhance your coding experience with vibrant colors and a light background.
+The "Happy Red" theme is a bright and cheerful color theme designed to enhance your coding experience with vibrant colors and a light background.
 
 ## Installation
 
@@ -9,18 +9,18 @@ The "Happy Yellow" theme is a bright and cheerful color theme designed to enhanc
 2. Open Visual Studio Code.
 3. Go to the Extensions view by clicking on the Extensions icon in the Activity Bar on the side of the window.
 4. Click on the three dots in the top right corner and select "Install from VSIX..."
-5. Navigate to the directory where you cloned or extracted the theme and select the `happy-yellow-color-theme.json` file.
+5. Navigate to the directory where you cloned or extracted the theme and select the `happy-red-color-theme.json` file.
 
 ## Applying the Theme
 
 1. Open the Command Palette (Ctrl+Shift+P or Cmd+Shift+P).
 2. Type "Color Theme" and select "Preferences: Color Theme".
-3. Choose "Happy Yellow" from the list of available themes.
+3. Choose "Happy Red" from the list of available themes.
 
 ## Features
 
-- Bright yellow title bar for a cheerful look.
-- White-yellow background for a light and airy feel.
+- Bright Red title bar for a cheerful look.
+- White-Red background for a light and airy feel.
 - Custom syntax highlighting colors to improve readability.
 
 ## License
