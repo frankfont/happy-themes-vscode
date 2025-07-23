@@ -8,7 +8,7 @@ In VSCode open a terminal and follow the instructions below.
 
 ### How to Install All Themes At Once
 
-You can install all the themes at once by running this script from a CSCode terminal.
+You can install all the themes at once by running this script from a VSCode terminal.
 
 ```
 ./install-all.sh
