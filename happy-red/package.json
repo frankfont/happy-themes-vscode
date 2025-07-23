@@ -1,0 +1,25 @@
+{
+  "name": "happy-red",
+  "displayName": "Happy Red",
+  "description": "A bright and cheerful red theme for Visual Studio Code.",
+  "version": "1.0.0",
+  "publisher": "Room4me.com Software LLC",
+  "author": "Frank Font",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/frankfont/happy-themes-vscode.git"
+  },
+  "engines": {
+    "vscode": "^1.50.0"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Happy Red",
+        "uiTheme": "vs",
+        "path": "./themes/happy-red-color-theme.json"
+      }
+    ]
+  }
+}

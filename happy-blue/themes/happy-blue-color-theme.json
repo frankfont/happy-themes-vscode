@@ -1,0 +1,37 @@
+{
+  "name": "Happy Blue",
+  "type": "light",
+  "colors": {
+    "titleBar.activeBackground": "#2196f3",
+    "titleBar.activeForeground": "#ffffff",
+    "titleBar.inactiveBackground": "#bbdefb",
+    "titleBar.inactiveForeground": "#1565c0",
+    "activityBar.background": "#1976d2",
+    "activityBar.foreground": "#ffffff",
+    "sideBar.background": "#e3f2fd",
+    "editor.background": "#f5fafd",
+    "editor.foreground": "#0d47a1",
+    "statusBar.background": "#2196f3",
+    "statusBar.foreground": "#ffffff"
+  },
+  "tokenColors": [
+    {
+      "scope": ["comment"],
+      "settings": {
+        "foreground": "#90caf9"
+      }
+    },
+    {
+      "scope": ["string"],
+      "settings": {
+        "foreground": "#1976d2"
+      }
+    },
+    {
+      "scope": ["keyword"],
+      "settings": {
+        "foreground": "#0d47a1"
+      }
+    }
+  ]
+}
