@@ -33,20 +33,20 @@ code --install-extension happy-themes-1.0.0.vsix
 
 ### Happy Yellow
 
-![Happy Yellow Sample](samples/happy-yellow-sample.png)
+![Happy Yellow Sample](samples/happy-yellow-sample.jpg)
 
 ### Happy Blue
 
-![Happy Blue Sample](samples/happy-blue-sample.png)
+![Happy Blue Sample](samples/happy-blue-sample.jpg)
 
 ### Happy Red
 
-![Happy Red Sample](samples/happy-red-sample.png)
+![Happy Red Sample](samples/happy-red-sample.jpg)
 
 ### Happy Green
 
-![Happy Green Sample](samples/happy-green-sample.png)
+![Happy Green Sample](samples/happy-green-sample.jpg)
 
 ---
 
-Happy Themes are free for everyone to
+Happy Themes are free for everyone to use. Enjoy! Be happy!
