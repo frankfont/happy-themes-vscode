@@ -22,6 +22,8 @@ Install one extension and get all the Happy themes: Yellow, Blue, Red, Green, an
    - Happy Purple 
    - Happy Orange
    - Happy Pink
+   - Happy Teal
+   - Happy Charcoal
 
 ## Theme Samples
 
@@ -53,6 +55,18 @@ Install one extension and get all the Happy themes: Yellow, Blue, Red, Green, an
 
 ![Happy Pink Sample](samples/happy-pink-sample.jpg)
 
+### Happy Teal
+
+![Happy Teal Sample](samples/happy-teal-sample.jpg)
+
+### Happy Charcoal
+
+![Happy Charcoal Sample](samples/happy-charcoal-sample.jpg)
+
 ---
 
 Happy Themes are free for everyone to use. Enjoy! Be happy!
+
+## Write a Review or Share
+
+https://marketplace.visualstudio.com/items?itemName=FrankFont123.happy-themes
