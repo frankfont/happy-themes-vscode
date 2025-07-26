@@ -5,7 +5,7 @@ Install one extension and get all the Happy themes: Yellow, Blue, Red, Green, an
 
 ## How to Use
 
-1. Install Happy Themes from the VSCODE Marketplace. It is a free VSCODE extension.
+1. Install Happy Themes from the VSCODE Extensions Marketplace. It is a free VSCODE extension.
 
 2. Open the Command Palette 
     - MacOS: `Cmd+Shift+P`
@@ -14,12 +14,14 @@ Install one extension and get all the Happy themes: Yellow, Blue, Red, Green, an
 3. Type `Color Theme` and select **Preferences: Color Theme**.
 
 4. Choose any Happy theme and you are on your way!
-  
+
    - Happy Yellow  
    - Happy Blue  
    - Happy Red  
    - Happy Green 
    - Happy Purple 
+   - Happy Orange
+   - Happy Pink
 
 ## Theme Samples
 
@@ -42,6 +44,14 @@ Install one extension and get all the Happy themes: Yellow, Blue, Red, Green, an
 ### Happy Purple
 
 ![Happy Purple Sample](samples/happy-purple-sample.jpg)
+
+### Happy Orange
+
+![Happy Orange Sample](samples/happy-orange-sample.jpg)
+
+### Happy Pink
+
+![Happy Pink Sample](samples/happy-pink-sample.jpg)
 
 ---
 
