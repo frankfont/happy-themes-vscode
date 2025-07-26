@@ -3,27 +3,18 @@
 Bright, cheerful color themes for your VS Code IDE!  
 Install one extension and get all the Happy themes: Yellow, Blue, Red, Green, and Purple.
 
-## Installation Instructions
-
-### 1. Install from the Marketplace
-
-Search for **Happy Themes** in the VS Code Extensions view and click **Install**.
-
-### 2. Manual Installation (Development)
-
-Clone this repo and run:
-
-```bash
-npm install -g vsce
-vsce package
-code --install-extension happy-themes-1.0.0.vsix
-```
-
 ## How to Use
 
-1. Open the Command Palette (`Cmd+Shift+P`).
-2. Type `Color Theme` and select **Preferences: Color Theme**.
-3. Choose any Happy theme:  
+1. Install Happy Themes from the VSCODE Marketplace. It is a free VSCODE extension.
+
+2. Open the Command Palette 
+    - MacOS: `Cmd+Shift+P`
+    - WindowsOS: `Ctrl+Shift+P`).
+
+3. Type `Color Theme` and select **Preferences: Color Theme**.
+
+4. Choose any Happy theme and you are on your way!
+  
    - Happy Yellow  
    - Happy Blue  
    - Happy Red  
