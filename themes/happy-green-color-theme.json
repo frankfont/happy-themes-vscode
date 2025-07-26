@@ -1,25 +1,37 @@
 {
-  "name": "happy-green",
-  "displayName": "Happy Green",
-  "description": "A bright and cheerful green theme for Visual Studio Code.",
-  "version": "1.0.0",
-  "publisher": "Room4me.com Software LLC",
-  "author": "Frank Font",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/frankfont/happy-themes-vscode.git"
+  "name": "Happy Green",
+  "type": "light",
+  "colors": {
+    "titleBar.activeBackground": "#43a047",
+    "titleBar.activeForeground": "#ffffff",
+    "titleBar.inactiveBackground": "#c8e6c9",
+    "titleBar.inactiveForeground": "#1b5e20",
+    "activityBar.background": "#388e3c",
+    "activityBar.foreground": "#ffffff",
+    "sideBar.background": "#e8f5e9",
+    "editor.background": "#f6fcf7",
+    "editor.foreground": "#1b5e20",
+    "statusBar.background": "#43a047",
+    "statusBar.foreground": "#ffffff"
   },
-  "engines": {
-    "vscode": "^1.50.0"
-  },
-  "contributes": {
-    "themes": [
-      {
-        "label": "Happy Green",
-        "uiTheme": "vs",
-        "path": "./themes/happy-green-color-theme.json"
+  "tokenColors": [
+    {
+      "scope": ["comment"],
+      "settings": {
+        "foreground": "#81c784"
       }
-    ]
-  }
+    },
+    {
+      "scope": ["string"],
+      "settings": {
+        "foreground": "#388e3c"
+      }
+    },
+    {
+      "scope": ["keyword"],
+      "settings": {
+        "foreground": "#1b5e20"
+      }
+    }
+  ]
 }
