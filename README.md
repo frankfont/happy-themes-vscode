@@ -27,7 +27,8 @@ code --install-extension happy-themes-1.0.0.vsix
    - Happy Yellow  
    - Happy Blue  
    - Happy Red  
-   - Happy Green  
+   - Happy Green 
+   - Happy Purple 
 
 ## Theme Samples
 
