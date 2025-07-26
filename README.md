@@ -1,81 +1,52 @@
-# Happy Themes for Visual Studio Code ( VSCode)
+# Happy Themes for Visual Studio Code
 
-Looking for bright happy themes for your VSCode IDE? You found them!
+Bright, cheerful color themes for your VS Code IDE!  
+Install one extension and get all the Happy themes: Yellow, Blue, Red, and Green.
 
 ## Installation Instructions
 
-In VSCode open a terminal and follow the instructions below.
+### 1. Install from the Marketplace
 
-### How to Install All Themes At Once
+Search for **Happy Themes** in the VS Code Extensions view and click **Install**.
 
-You can install all the themes at once by running this script from a VSCode terminal.
+### 2. Manual Installation (Development)
 
-```
-./install-all.sh
-```
+Clone this repo and run:
 
-Or you can install themes one at a time.
-
-### How to Install Themes One at a Time
-
-Pick the themes you want and install just those.
-
-#### Happy Yellow
-
-![Happy Yellow Sample](samples/happy-yellow-sample.jpg)
-
-1. Execute these terminal commands
 ```bash
-> cd happy-yellow
-> code --install-extension happy-yellow-1.0.0.vsix
-```
-2. Apply the theme
-```
-In VS Code, open the Command Palette (Cmd+Shift+P), type Color Theme, and select Happy Yellow.
+npm install -g vsce
+vsce package
+code --install-extension happy-themes-1.0.0.vsix
 ```
 
-#### Happy Blue
+## How to Use
 
-![Happy Blue Sample](samples/happy-blue-sample.jpg)
+1. Open the Command Palette (`Cmd+Shift+P`).
+2. Type `Color Theme` and select **Preferences: Color Theme**.
+3. Choose any Happy theme:  
+   - Happy Yellow  
+   - Happy Blue  
+   - Happy Red  
+   - Happy Green  
 
-1. Execute these terminal commands
-```bash
-> cd happy-blue
-> code --install-extension happy-blue-1.0.0.vsix
-```
-2. Apply the theme
-```
-In VS Code, open the Command Palette (Cmd+Shift+P), type Color Theme, and select Happy Blue.
-```
+## Theme Samples
 
-#### Happy Red
+### Happy Yellow
 
-![Happy Red Sample](samples/happy-red-sample.jpg)
+![Happy Yellow Sample](samples/happy-yellow-sample.png)
 
-1. Execute these terminal commands
-```bash
-> cd happy-red
-> code --install-extension happy-red-1.0.0.vsix
-```
-2. Apply the theme
-```
-In VS Code, open the Command Palette (Cmd+Shift+P), type Color Theme, and select Happy Red.
-```
+### Happy Blue
 
-#### Happy Green
+![Happy Blue Sample](samples/happy-blue-sample.png)
 
-![Happy Green Sample](samples/happy-green-sample.jpg)
+### Happy Red
 
-1. Execute these terminal commands
-```bash
-> cd happy-green
-> code --install-extension happy-green-1.0.0.vsix
-```
-2. Apply the theme
-```
-In VS Code, open the Command Palette (Cmd+Shift+P), type Color Theme, and select Happy Green.
-```
+![Happy Red Sample](samples/happy-red-sample.png)
+
+### Happy Green
+
+![Happy Green Sample](samples/happy-green-sample.png)
 
 ---
 
-Happy themes are free for everyone to use. Enjoy!
+Happy Themes are free for everyone to
