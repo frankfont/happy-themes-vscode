@@ -49,7 +49,7 @@ code --install-extension happy-themes-1.0.0.vsix
 
 ### Happy Purple
 
-![Happy Red Sample](samples/happy-purple-sample.jpg)
+![Happy Purple Sample](samples/happy-purple-sample.jpg)
 
 ---
 
