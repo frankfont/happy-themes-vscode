@@ -1,0 +1,7 @@
+.secrets
+temp/
+temp.*
+.vscode/
+node_modules/
+.vscode-test/
+.vscode-test.*
