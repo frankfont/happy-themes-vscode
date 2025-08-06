@@ -1,0 +1,58 @@
+{
+  "name": "Happy Peppermint",
+  "type": "light",
+  "colors": {
+    "titleBar.activeBackground": "#FF3B3F",         // peppermint red
+    "titleBar.activeForeground": "#FFFFFF",
+    "titleBar.inactiveBackground": "#CFFFE5",       // mint green
+    "titleBar.inactiveForeground": "#FF3B3F",
+    "activityBar.background": "#FF3B3F",
+    "activityBar.foreground": "#FFFFFF",
+    "sideBar.background": "#E6FFF7",                // soft mint
+    "sideBar.foreground": "#FF3B3F",
+    "editor.background": "#FFFFFF",                 // white candy
+    "editor.foreground": "#FF3B3F",
+    "statusBar.background": "#CFFFE5",
+    "statusBar.foreground": "#FF3B3F",
+    "button.background": "#FF3B3F",
+    "button.foreground": "#FFFFFF",
+    "input.background": "#E6FFF7",
+    "input.foreground": "#FF3B3F",
+    "input.placeholderForeground": "#A0EEC0"
+  },
+  "tokenColors": [
+    {
+      "scope": ["comment"],
+      "settings": {
+        "foreground": "#A0EEC0",                    // mint green
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": ["string"],
+      "settings": {
+        "foreground": "#FF3B3F"                     // peppermint red
+      }
+    },
+    {
+      "scope": ["keyword"],
+      "settings": {
+        "foreground": "#00BFAE",                    // bright mint
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": ["variable", "constant"],
+      "settings": {
+        "foreground": "#FF3B3F"
+      }
+    },
+    {
+      "scope": ["function", "entity.name.function"],
+      "settings": {
+        "foreground": "#00BFAE",
+        "fontStyle": "bold"
+      }
+    }
+  ]
+}

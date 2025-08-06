@@ -1,19 +1,23 @@
 # Happy Themes for Visual Studio Code
 
 Bright, cheerful color themes for your VS Code IDE!  
-Install one extension and get all the Happy themes: Yellow, Blue, Red, Green, and Purple.
+Install one extension and get all the Happy themes: Yellow, Blue, Red, Green, Purple, and more.
 
 ## How to Use
 
-1. Install Happy Themes from the VSCODE Extensions Marketplace. It is a free VSCODE extension.
+First install the **Happy Themes** extension from the VSCODE Extensions Marketplace. It is a free VSCODE extension.
 
-2. Open the Command Palette 
+Then on the welcome page simply click the **"Set Color Theme"** button to pick from the list of happy options!
+
+*Or, if you want to know the keyboard shortcut ...*
+
+1. Open the Command Palette 
     - MacOS: `Cmd+Shift+P`
     - WindowsOS: `Ctrl+Shift+P`).
 
-3. Type `Color Theme` and select **Preferences: Color Theme**.
+2. Type `Color Theme` and select **Preferences: Color Theme**.
 
-4. Choose any Happy theme and you are on your way!
+3. Choose any Happy theme and you are on your way!
 
    - Happy Yellow  
    - Happy Blue  
@@ -24,6 +28,9 @@ Install one extension and get all the Happy themes: Yellow, Blue, Red, Green, an
    - Happy Pink
    - Happy Teal
    - Happy Charcoal
+   - Happy Peppermint
+   - Happy TerminalG
+   - Happy TerminalO
 
 ## Theme Samples
 
@@ -62,6 +69,18 @@ Install one extension and get all the Happy themes: Yellow, Blue, Red, Green, an
 ### Happy Charcoal
 
 ![Happy Charcoal Sample](samples/happy-charcoal-sample.jpg)
+
+### Happy Peppermint
+
+![Happy Peppermint Sample](samples/happy-peppermint-sample.jpg)
+
+### Happy TerminalG
+
+![Happy TerminalG Sample](samples/happy-terminalg-sample.jpg)
+
+### Happy TerminalO
+
+![Happy TerminalO Sample](samples/happy-terminalo-sample.jpg)
 
 ---
 
