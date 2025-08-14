@@ -28,9 +28,12 @@ Then on the welcome page simply click the **"Set Color Theme"** button to pick f
    - Happy Pink
    - Happy Teal
    - Happy Charcoal
+   - Happy Bluecoal
    - Happy Peppermint
    - Happy TerminalG
    - Happy TerminalO
+   - Happy TerminalY
+   - Happy TerminalP
 
 ## Theme Samples
 
@@ -69,6 +72,10 @@ Then on the welcome page simply click the **"Set Color Theme"** button to pick f
 ### Happy Charcoal
 
 ![Happy Charcoal Sample](samples/happy-charcoal-sample.jpg)
+
+### Happy Bluecoal
+
+![Happy Bluecoal Sample](samples/happy-bluecoal-sample.jpg)
 
 ### Happy Peppermint
 

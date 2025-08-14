@@ -1,0 +1,57 @@
+{
+  "name": "happy-bluecoal",
+  "type": "light",
+  "colors": {
+    "editor.background": "#F2F2F2",                  // Gentle near-white charcoal
+    "editor.foreground": "#000000",                  // Crisp black text
+    "editorCursor.foreground": "#FFA500",            // Warm orange
+    "editor.lineHighlightBackground": "#E0E0E0",
+    "editorLineNumber.foreground": "#00BFFF",        // Deep sky blue instead of steel blue
+    "titleBar.activeBackground": "#2B2B2B",           // Charcoal gray
+    "titleBar.activeForeground": "#00CED1",           // Happy cyan instead of yellow
+    "titleBar.inactiveBackground": "#4A4A4A",
+    "titleBar.inactiveForeground": "#CCCCCC",
+    "activityBar.background": "#3C3C3C",
+    "activityBar.foreground": "#00CED1",              // Vibrant teal
+    "statusBar.background": "#3C3C3C",
+    "statusBar.foreground": "#FFA500",                // Happy orange
+    "button.background": "#00CED1",                   // Bright cyan instead of sad blue
+    "button.foreground": "#FFFFFF",
+    "input.background": "#FFFFFF",
+    "input.foreground": "#000000",
+    "input.placeholderForeground": "#888888"
+  },
+  "tokenColors": [
+    {
+      "scope": ["comment", "comment.block"],
+      "settings": {
+        "foreground": "#A9A9A9"                      // Friendly soft gray
+      }
+    },
+    {
+      "scope": ["keyword", "variable.language"],
+      "settings": {
+        "foreground": "#DAA520"                      // Goldenrod
+      }
+    },
+    {
+      "scope": ["string", "constant"],
+      "settings": {
+        "foreground": "#008B8B"                      // Deep aqua
+      }
+    },
+    {
+      "scope": ["variable", "variable.parameter"],
+      "settings": {
+        "foreground": "#000000"
+      }
+    },
+    {
+      "scope": ["function", "entity.name.function"],
+      "settings": {
+        "foreground": "#00BFFF"                      // Deep sky blue instead of royal blue
+      }
+    }
+  ],
+  "semanticHighlighting": true
+}
