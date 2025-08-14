@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.0.7-beta2] - 2025-08-14
+
+- Added Happy TerminalW - cheerful white terminal theme
+
 ## [1.0.7-beta] - 2025-08-13
 
 - Added Happy TerminalY - cheerful yellow terminal theme

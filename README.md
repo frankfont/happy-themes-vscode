@@ -91,11 +91,11 @@ Then on the welcome page simply click the **"Set Color Theme"** button to pick f
 
 ### Happy TerminalY
 
-![Happy TerminalO Sample](samples/happy-terminaly-sample.jpg)
+![Happy TerminalY Sample](samples/happy-terminaly-sample.jpg)
 
 ### Happy TerminalP
 
-![Happy TerminalO Sample](samples/happy-terminalp-sample.jpg)
+![Happy TerminalP Sample](samples/happy-terminalp-sample.jpg)
 
 ---
 
