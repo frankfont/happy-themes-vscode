@@ -2,7 +2,7 @@
   "name": "happy-themes",
   "displayName": "Happy Themes",
   "description": "A collection of bright and cheerful themes for Visual Studio Code.",
-  "version": "1.0.6",
+  "version": "1.0.7-beta",
   "icon": "images/icon1024.png",
   "publisher": "FrankFont123",
   "author": "Frank Font",
@@ -75,6 +75,16 @@
         "label": "Happy TerminalO",
         "uiTheme": "vs-dark",
         "path": "./themes/happy-terminalo-color-theme.json"
+      },
+      {
+        "label": "Happy TerminalY",
+        "uiTheme": "vs-dark",
+        "path": "./themes/happy-terminaly-color-theme.json"
+      },
+      {
+        "label": "Happy TerminalP",
+        "uiTheme": "vs-dark",
+        "path": "./themes/happy-terminalp-color-theme.json"
       }
     ]
   }

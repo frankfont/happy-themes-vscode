@@ -82,6 +82,14 @@ Then on the welcome page simply click the **"Set Color Theme"** button to pick f
 
 ![Happy TerminalO Sample](samples/happy-terminalo-sample.jpg)
 
+### Happy TerminalY
+
+![Happy TerminalO Sample](samples/happy-terminaly-sample.jpg)
+
+### Happy TerminalP
+
+![Happy TerminalO Sample](samples/happy-terminalp-sample.jpg)
+
 ---
 
 Happy Themes are free for everyone to use. Enjoy! Be happy!

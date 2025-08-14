@@ -1,0 +1,58 @@
+{
+  "name": "Happy TerminalP",
+  "type": "dark",
+  "colors": {
+    "titleBar.activeBackground": "#23272A",         // charcoal
+    "titleBar.activeForeground": "#FF00FF",         // bright magenta purple
+    "titleBar.inactiveBackground": "#2C2F33",       // lighter charcoal
+    "titleBar.inactiveForeground": "#FF00FF",
+    "activityBar.background": "#23272A",
+    "activityBar.foreground": "#FF00FF",
+    "sideBar.background": "#181A1B",                // almost black
+    "sideBar.foreground": "#FF00FF",
+    "editor.background": "#101112",                 // almost black
+    "editor.foreground": "#FF00FF",                 // bright cheerful purple
+    "statusBar.background": "#23272A",
+    "statusBar.foreground": "#FF00FF",
+    "button.background": "#23272A",
+    "button.foreground": "#FF00FF",
+    "input.background": "#181A1B",
+    "input.foreground": "#FF00FF",
+    "input.placeholderForeground": "#FF80FF"
+  },
+  "tokenColors": [
+    {
+      "scope": ["comment"],
+      "settings": {
+        "foreground": "#FF80FF",                    // bright light purple for comments
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": ["string"],
+      "settings": {
+        "foreground": "#FF00FF"                     // bright magenta purple for strings
+      }
+    },
+    {
+      "scope": ["keyword"],
+      "settings": {
+        "foreground": "#C000FF",                    // electric violet for keywords
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": ["variable", "constant"],
+      "settings": {
+        "foreground": "#FF00FF"
+      }
+    },
+    {
+      "scope": ["function", "entity.name.function"],
+      "settings": {
+        "foreground": "#C000FF",
+        "fontStyle": "bold"
+      }
+    }
+  ]
+}

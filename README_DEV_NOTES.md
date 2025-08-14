@@ -16,6 +16,6 @@ If you want to install them the hard way locally, use the `vsce` utility
 ```bash
 npm install -g vsce
 vsce package
-code --install-extension happy-themes-1.0.5.vsix
+code --install-extension happy-themes-1.0.7-beta.vsix
 ```
 
