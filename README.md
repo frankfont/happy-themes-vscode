@@ -34,6 +34,7 @@ Then on the welcome page simply click the **"Set Color Theme"** button to pick f
    - Happy TerminalO
    - Happy TerminalY
    - Happy TerminalP
+   - Happy TerminalW
 
 ## Theme Samples
 
